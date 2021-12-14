@@ -12,8 +12,8 @@ of grouping effect.
 
 In our project, we trained several gene TP53 inactivation classifiers, compared the
 performance of lasso, ridge and elastic net in sparse logistic regression and support vector
-machine. We verified that logistic regression is a better model in this project and elastic
-net performs better than lasso and ridge regularization, with a higher test AUC (93.6%)
+machine. We verified that **logistic regression is a better model** in this project and **elastic
+net performs better than lasso and ridge regularization**, with a higher test AUC (93.6%)
 and reasonable proportion of selected variable. In addition, we did further analysis to make
 sure this elastic net model has biological significance and good interpretability.
 
